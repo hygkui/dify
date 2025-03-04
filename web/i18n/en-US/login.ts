@@ -60,7 +60,8 @@ const translation = {
     nameEmpty: 'Name is required',
     passwordEmpty: 'Password is required',
     passwordLengthInValid: 'Password must be at least 8 characters',
-    passwordInvalid: 'Password must contain letters and numbers, and the length must be greater than 8',
+    passwordInvalid: 'Password must contain letters, numbers, and symbols, with a minimum length of 8 characters',
+    // passwordInvalid: 'Password must contain letters and numbers, and the length must be greater than 8',
     registrationNotAllowed: 'Account not found. Please contact the system admin to register.',
   },
   license: {
